@@ -1,5 +1,6 @@
 # 🚀 Discord System-Wide Overlay Enhancement
 
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
 [![Status](https://img.shields.io/badge/Status-Proposal-orange)](https://github.com)
