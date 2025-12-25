@@ -1,8 +1,8 @@
 // src/overlay/OverlaySettingsUI.tsx
 
 import React, { useState, useEffect } from 'react';
-import { OverlayModeManager } from './OverlayModeManager';
-import { OverlayMode, OverlayConfig } from './types/OverlayModes';
+import { OverlayModeManager } from '../OverlayModeManager';
+import { OverlayMode, OverlayConfig } from './OverlayModes';
 
 export const OverlaySettings: React.FC = () => {
   const manager = OverlayModeManager.getInstance();
