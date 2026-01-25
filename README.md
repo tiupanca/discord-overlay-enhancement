@@ -131,7 +131,7 @@ This addresses a highly-requested feature:
 
 ## 📞 Contact
 
-- **GitHub**: [@tiupanca](https://github.com/tiupanca)
+- **GitHub**: [@alsobox](https://github.com/alsobox)
 - **Discord**: russell.bufalino
 - **Email**: alsobox@hotmail.com
 
