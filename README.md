@@ -132,7 +132,7 @@ This addresses a highly-requested feature:
 ## 📞 Contact
 
 - **GitHub**: [@alsobox](https://github.com/alsobox)
-- **Discord**: russell.bufalino
+- **Discord**: gta_br
 - **Email**: alsobox@hotmail.com
 
 ## 🙏 Acknowledgments
